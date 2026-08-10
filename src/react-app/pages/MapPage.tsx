@@ -1,5 +1,3 @@
-import React from "react";
-
 /*
   Simple iframe embed using Google Maps search for "Sijangkang Selangor".
   This avoids adding map libraries or API keys.
